@@ -1,0 +1,35 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  equipment_number: MyString
+  make: MyString
+  model: MyString
+  year: 1
+  equipment_type: MyString
+  agency: MyString
+  agency_acronym: MyString
+  division: MyString
+  division_code: MyString
+  location_code: MyString
+  city: MyString
+  county: MyString
+  fuel_type: MyString
+  engine_size: MyString
+  purchase_method: MyString
+
+two:
+  equipment_number: MyString
+  make: MyString
+  model: MyString
+  year: 1
+  equipment_type: MyString
+  agency: MyString
+  agency_acronym: MyString
+  division: MyString
+  division_code: MyString
+  location_code: MyString
+  city: MyString
+  county: MyString
+  fuel_type: MyString
+  engine_size: MyString
+  purchase_method: MyString
